@@ -1,0 +1,5 @@
+Restaurant_Scores_-_LIVES_Standard
+https://www.kaggle.com/code/codesagnik/san-francisco-restaurants-review/input
+
+San Francisco Restaurant Health Inspections
+http://2016.padjo.org/tutorials/sqlite-data-starterpacks/#toc-florida-death-row-roster
